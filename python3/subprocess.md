@@ -1,6 +1,13 @@
 # subprocess
 ## subprocess.run()
 
+args  
+stdin  
+stdout  
+stderr  
+timeout  
+> 단위는 초 (second)  
+check  
 
 ### error
 
