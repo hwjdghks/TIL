@@ -7,3 +7,4 @@
 
 ### 목록
 - [python3](python3)
+- [JavaScript](JavaScript)
