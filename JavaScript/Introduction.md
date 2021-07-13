@@ -76,6 +76,8 @@
 
 ---
 # 공부해야 할 것
+> 처음 보거나, 알아야 할 필요가 있어 보이는 용어  
+
 - ECMAScript
 - 엔진의 구체적인 동작
 - AJAX, COMET
@@ -84,6 +86,8 @@
 - 도메인, 프로토콜, 포트
 - HTTP 헤더
 - TypeScript, Dart
+- transpile
+
 <br>
 
 ---
